@@ -6,7 +6,7 @@ Sentinela é uma dashboard desenvolvida em Python com Streamlit que consome dado
 
 ## Funcionalidades
 
-- 📊 Exibição de estatísticas das 5 últimas partidas:
+- Exibição de estatísticas das 5 últimas partidas:
 
 - Campeão utilizado
 
@@ -18,7 +18,7 @@ Sentinela é uma dashboard desenvolvida em Python com Streamlit que consome dado
 
 - Resultado (Vitória / Derrota)
 
-- 📈 Gráficos de barras com desempenho por partida.
+- Gráficos de barras com desempenho por partida.
 
 ## Tecnologias utilizadas
 Streamlit
