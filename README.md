@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c3893ff0-6b0c-43e8-91be-eed6df9bdd43)
 
 # League Data Viewer
 
@@ -38,6 +39,9 @@ Crie um arquivo .env com sua API key da https://developer.riotgames.com
 Execute a aplicação no terminal: 
    
     streamlit run Home.py
+
+
+
 
 
 
